@@ -1,4 +1,4 @@
-# 
+# Professional Practical AI Projects for Students extensions. Featuring data-visualization and image-recognition — optimized for maximum performance.
 
 
 
